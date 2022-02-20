@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="alpha-wordle",                     # This is the name of the package
-    version="0.0.2",                        # The initial release version
+    version="0.0.3",                        # The initial release version
     author="Ishan Bhatt",                     # Full name of the author
     description="Quicksample Test Package for alpha-wordle",
     long_description=long_description,      # Long description read from the the readme file
@@ -18,6 +18,6 @@ setuptools.setup(
     ],                                      # Information to filter the project on PyPi website
     python_requires='>=3.6',                # Minimum version requirement of the package
     py_modules=["alphawordle"],             # Name of the python package
-    package_dir={'':'alpha-wordle/src'},     # Directory of the source code of the package
+    package_dir={'':'alphawordle/src'},     # Directory of the source code of the package
     install_requires=[]                     # Install other dependencies if any
 )
