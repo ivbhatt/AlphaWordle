@@ -6,9 +6,8 @@
 
 
 We use Information Theory to win WORDLE! <br/>
-We will soon have an accompanying blog-post with this repository. <br/>
-[PLACE-HOLDER FOR LINK TO BLOG_POST]
-
+There is an accompanying blog-post with this repository. <br/>
+https://ivbhatt.medium.com/4b8eedad3073?source=friends_link&sk=51cb3ace23a5bd14cc3031d638a9c0e7
 ## Installation
 ```
 pip3 install alpha-wordle
@@ -22,5 +21,5 @@ a.start()  ## Starts the WORDLE engine and prompts for feedback
 
 ## Contributing
 
-📢 Code-refactoring, Documentation, Bug-fixes, Feature-additions - everything is welcome :) <br\>
+📢 Code-refactoring, Documentation, Bug-fixes, Feature-additions - everything is welcome :) <br/>
 You know the drill: fork, commit & raise a PR (or just ⭐️ ️and move on!)
