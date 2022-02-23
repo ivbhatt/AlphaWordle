@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/458914824.svg)](https://zenodo.org/badge/latestdoi/458914824)
 [![Python 3.6](https://img.shields.io/badge/python-3.6%7C3.7%7C3.8%7C3.9-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub](https://img.shields.io/github/license/ivbhatt/alpha-wordle)
-
+![PythonApplication](https://github.com/ivbhatt/alpha-wordle/actions/workflows/python-app.yml/badge.svg)
 
 We use Information Theory to win WORDLE! <br/>
 There is an accompanying blog-post with this repository. <br/>
